@@ -1,3 +1,10 @@
+---
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 Hello!
 I am Ramesh, a Data Science and AI MSc student at the [University of Moratuwa](https://uom.lk/), Sri Lanka.
 I'm a Motivated Data Engineer with 3+ years of experience in data science, machine learning, AI, and Business Intelligence (BI) solutions. 
