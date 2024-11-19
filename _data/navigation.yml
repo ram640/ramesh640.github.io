@@ -7,21 +7,15 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
+  - title: "CV"
+    url: /https://github.com/ram640/ramesh640.github.io/blob/master/_pages/cv.md/
+
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+  
+  - title: "Talks"
+    url: /talks/     
     
   - title: "Guide"
     url: /markdown/
