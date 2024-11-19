@@ -12,7 +12,7 @@ redirect_from:
 ## Profile Summary
 Motivated **Data Engineer** with 3+ years of experience in **Data Science**, **Machine Learning**, **AI**, and **Business Intelligence (BI)** solutions. Proficient in **Python**, **Azure**, and **Power BI**, with a proven track record of delivering actionable insights and building robust analytical solutions. Enthusiastic about continuous learning, with expertise in **cloud technologies**, **big data**, and **data visualization**.
 
-**[Download my CV (PDF)](/assets/files/RAMESH_MADHUBHASHITHA_CV.pdf)**
+**[Download my CV (PDF)](/_data/RAMESH MADHUBHASHITHA CV.pdf)**
 
 ---
 
@@ -75,4 +75,4 @@ Motivated **Data Engineer** with 3+ years of experience in **Data Science**, **M
 ---
 
 ## Download My CV
-[Download PDF](/assets/files/RAMESH_MADHUBHASHITHA_CV.pdf)
+[Download PDF](/_data/RAMESH MADHUBHASHITHA CV.pdf)
