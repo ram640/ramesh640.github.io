@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV" **[Download my CV (PDF)](https://github.com/ram640/ramesh640.github.io/blob/master/_data/RAMESH%20MADHUBHASHITHA%20CV.pdf)**
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,18 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-## Profile Summary
-Motivated **Data Engineer** with 3+ years of experience in **Data Science**, **Machine Learning**, **AI**, and **Business Intelligence (BI)** solutions. Proficient in **Python**, **Azure**, and **Power BI**, with a proven track record of delivering actionable insights and building robust analytical solutions. Enthusiastic about continuous learning, with expertise in **cloud technologies**, **big data**, and **data visualization**.
-
-**[Download my CV (PDF)](https://github.com/ram640/ramesh640.github.io/blob/master/_data/RAMESH%20MADHUBHASHITHA%20CV.pdf)**
-
 ---
-
 ## Education
 - **B.Sc. (Joint Major)** in Mathematics, Mathematical Modelling, and Statistics & Computing and Information Systems  
-  Wayamba University of Sri Lanka (Dec 2016 – Dec 2021)  
-  - **GPA**: 3.23/4.0  
+  [Wayamba University of Sri Lanka](https://fas.wyb.ac.lk/) (Dec 2016 – Dec 2021)  
+  - GPA: 3.23/4.0  
   - Dean's List (2018 – 2019)
 
 ---
@@ -27,7 +20,7 @@ Motivated **Data Engineer** with 3+ years of experience in **Data Science**, **M
 ## Work Experience
 
 ### Data Engineer  
-**Axiata Digital Labs** – Colombo, Sri Lanka (Feb 2023 – Present)
+**[Axiata Digital Labs](https://www.axiatadigitallabs.com/)** – Colombo, Sri Lanka (Feb 2023 – Present)
 - Developed **automated dashboards** using Tableau and Snowflake for Dialog Axiata PLC.
 - Built **ETL pipelines** and **Data Lakes** using Azure-native technologies.
 - Designed **API analytics dashboards** with **Power BI Embedded**, enhancing business insights.
@@ -73,6 +66,3 @@ Motivated **Data Engineer** with 3+ years of experience in **Data Science**, **M
 - **Member** – Leo Club of Galle (2020 – Present)
 
 ---
-
-## Download My CV
-[Download PDF](https://github.com/ram640/ramesh640.github.io/blob/master/_data/RAMESH%20MADHUBHASHITHA%20CV.pdf)
