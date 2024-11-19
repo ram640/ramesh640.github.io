@@ -9,7 +9,7 @@ main:
     url: /publications/
         
   - title: "CV"
-    url: /https://github.com/ram640/ramesh640.github.io/blob/master/_pages/cv.md/
+    url: https://github.com/ram640/ramesh640.github.io/blob/master/_pages/cv.md
 
   - title: "Blog Posts"
     url: /year-archive/
