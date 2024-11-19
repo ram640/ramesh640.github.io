@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV" **[Download my CV (PDF)](https://github.com/ram640/ramesh640.github.io/blob/master/_data/RAMESH%20MADHUBHASHITHA%20CV.pdf)**
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+ **[Download my CV (PDF)](https://github.com/ram640/ramesh640.github.io/blob/master/_data/RAMESH%20MADHUBHASHITHA%20CV.pdf)**
 ---
 ## Education
 - **B.Sc. (Joint Major)** in Mathematics, Mathematical Modelling, and Statistics & Computing and Information Systems  
