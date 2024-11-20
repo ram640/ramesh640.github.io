@@ -13,8 +13,11 @@ main:
 
   - title: "Blog"
     url: https://medium.com/@rameshmadhubhashitha01
-  
-  - title: "Talks"AZ
+    
+  - title: "Portfolio"
+    url: /portfolio/
+    
+  - title: "Talks"
     url: /talks/     
     
   - title: "Guide"
