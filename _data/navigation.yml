@@ -12,7 +12,7 @@ main:
     url: /cv/
 
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://medium.com/@rameshmadhubhashitha01
   
   - title: "Talks"
     url: /talks/     
