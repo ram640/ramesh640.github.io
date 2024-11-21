@@ -25,6 +25,8 @@ author:
   name             : "Ramesh Madhubhashitha"
   pronouns         : # example: "she/her"  
   bio              : "Empowering global growth through continuous learning"
+  cv: "/files/Ramesh_CV.pdf" # Path to your CV file
+  resume: "/files/Ramesh_Resume.pdf" # Path to your Resume file
   location         : "Sri Lanka"
   employer         : "University of Moratuwa"
   uri              : # URL
