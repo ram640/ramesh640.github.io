@@ -111,17 +111,18 @@
     </ul>
 
     <!-- New CV and Resume download buttons -->
-    <div class="author__downloads">
-        {% if author.cv %}
-        <a class="btn btn-primary" href="{{ author.cv }}" target="_blank" role="button">
-          <i class="fas fa-file-pdf"></i> Download CV
-        </a>
-        {% endif %}
-        {% if author.resume %}
-        <a class="btn btn-secondary" href="{{ author.resume }}" target="_blank" role="button">
-          <i class="fas fa-file-alt"></i> Download Resume
-        </a>
-        {% endif %}
-    </div>
+    <div class="author__downloads" style="display: flex; gap: 10px; align-items: center; margin-top: 10px;">
+    {% if author.cv %}
+    <a class="btn btn-primary" href="{{ author.cv }}" target="_blank" role="button" style="text-align: center;">
+      <i class="fas fa-file-pdf"></i> CV
+    </a>
+    {% endif %}
+    {% if author.resume %}
+    <a class="btn btn-secondary" href="{{ author.resume }}" target="_blank" role="button" style="text-align: center;">
+      <i class="fas fa-file-pdf"></i> Resume
+    </a>
+    {% endif %}
+</div>
+
   </div>
 </div>
